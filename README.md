@@ -6,4 +6,4 @@ Este repositorio contiene visualizaciones interactivas de los créditos otorgado
 
 ## 📍 Mapas disponibles
 
-- [Emprendé Interior (2024-2025)](https://matiaspiccolo.github.io/Impulso/mapa_general_interactivo_impulso1.html)
+- [Emprendé Interior (2024-2025)](https://github.com/marielamolinatrabajo/Mapa-Emprend-interior/blob/main/mapa_general_interactivo_EMPRENDE_total.html)
